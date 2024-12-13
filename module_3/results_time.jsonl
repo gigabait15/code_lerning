@@ -1,0 +1,4 @@
+{"result": {"method": "process_with_single", "time": 0.09067821502685547}}
+{"result": {"method": "process_with_threads", "time": 0.2978856563568115}}
+{"result": {"method": "process_with_pool", "time": 0.060600996017456055}}
+{"result": {"method": "process_with_processes", "time": 0.17168211936950684}}
